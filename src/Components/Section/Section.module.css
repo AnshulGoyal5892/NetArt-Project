@@ -1,0 +1,43 @@
+.subSection{
+    display: flex;
+    height: 40%;
+    width: 63%;
+    flex-direction: column;
+    /* border: 2px solid black; */
+}
+.award{
+    /* height: 80%; */
+    width: 100%;
+}
+.image2{
+    width: 80%;
+    border: none;
+    box-shadow: none;
+}
+.section1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.image3{
+    width: 95%;
+}
+.imageDiv3{
+    width: 90vw;
+    text-align: center;
+}
+.imageDiv{
+    width: 25%;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.content3{
+    text-align: center;
+}
+.line{
+    border: 1px solid red;
+}
