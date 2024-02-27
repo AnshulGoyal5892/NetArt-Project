@@ -5,3 +5,12 @@
     margin-top: 0%;
     margin-bottom: 0%;
 }
+@media (max-width: 768px) {
+    .logo{
+        height: 60%;
+        width: 65%;
+        margin: auto;
+        margin-top: 0%;
+        margin-bottom: 0%;
+    }
+}
