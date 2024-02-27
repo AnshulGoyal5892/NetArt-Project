@@ -5,18 +5,6 @@ import image2 from '../../images/image2.png'
 import image1 from '../../images/image3.png'
 
 const Section = () => {
-  const containerStyle = {
-    position: 'relative',
-    width: '100%',
-    paddingTop: '100%', // Set the height based on the ratio
-    border:'2px solid black'
-  };
-  const imageStyle = {
-    width: '65%',
-    // height: '50%',
-    objectFit: 'cover', // Maintain aspect ratio by covering the container
-    // marginRight:'-10%'
-  };
   return (
     <div className={styles.mainSection} >
       <div className={styles.section1} >
