@@ -23,7 +23,7 @@ const Section = () => {
         </span>
       </div>
 
-      <p>INSTALLED OVER 10 LAKHS STAR RATED PUMPSETS ACROSS THE COUNTRY RESULTING IN A CUMULATIVE SAVING OF MORE THAN 9,000 MILLION UNITS OF POWER FOR THE NATION. </p>
+      <p className={styles.para} >INSTALLED OVER 10 LAKHS STAR RATED PUMPSETS ACROSS THE COUNTRY RESULTING IN A CUMULATIVE SAVING OF MORE THAN 9,000 MILLION UNITS OF POWER FOR THE NATION. </p>
       <div className={styles.imageDiv3}>
           <img src={image1} className={styles.image3}  alt='award' />
       </div>

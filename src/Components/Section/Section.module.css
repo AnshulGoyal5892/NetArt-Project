@@ -7,6 +7,8 @@
 }
 .award{
     /* height: 80%; */
+
+    /* border: 2px solid black; */
     width: 100%;
 }
 .image2{
@@ -43,15 +45,11 @@
 }
 @media (max-width: 768px) {
     .subSection {
-        width: 100%; /* Adjust width for smaller screens */
-    }
-
-    .image2 {
-        width: 100%; /* Make image2 full width on smaller screens */
+        width: 90%; /* Adjust width for smaller screens */
     }
 
     .imageDiv {
-        width: 100%; /* Make imageDiv full width on smaller screens */
-        height: auto; /* Adjust height for smaller screens */
+        width: 50%;
+        padding-bottom: 70px; 
     }
 }
