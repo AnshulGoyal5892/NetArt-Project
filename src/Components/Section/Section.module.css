@@ -41,3 +41,17 @@
 .line{
     border: 1px solid red;
 }
+@media (max-width: 768px) {
+    .subSection {
+        width: 100%; /* Adjust width for smaller screens */
+    }
+
+    .image2 {
+        width: 100%; /* Make image2 full width on smaller screens */
+    }
+
+    .imageDiv {
+        width: 100%; /* Make imageDiv full width on smaller screens */
+        height: auto; /* Adjust height for smaller screens */
+    }
+}
